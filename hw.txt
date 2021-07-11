@@ -1,12 +1,18 @@
 hello world
 this line is written while editing
 <<<<<<< HEAD
+<<<<<<< HEAD
 editing it for third time
 
 0123456789
 =======
+=======
+>>>>>>> third-branch
 this line is written while editing for branch 2
 
 this line is written while editing for branch 3s
 
+<<<<<<< HEAD
+>>>>>>> third-branch
+=======
 >>>>>>> third-branch
