@@ -1,3 +1,10 @@
 hello world
 this line is written while editing
+<<<<<<< HEAD
 this was edited after third brranch was made to merge the code
+=======
+this line is written while editing for branch 2
+
+this line is written while editing for branch 3s
+
+>>>>>>> third-branch
